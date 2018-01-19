@@ -3,3 +3,10 @@
 금요일
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/64px-Markdown-mark.svg.png)
+
+## 헤더2
+- 리스트1
+- 리스트2
+
+### 헤더3
+- __강조__ 되는 글자
